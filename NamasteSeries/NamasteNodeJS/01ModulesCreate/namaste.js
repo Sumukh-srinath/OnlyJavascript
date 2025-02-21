@@ -1,0 +1,1 @@
+console.log("Namaste Node JS from different file")
